@@ -55,7 +55,7 @@ int main(void){
 						 printf("\nO resultado e %i\n", num1-num2);	
 					}
 						else {
-							if (oper=='*'){c
+							if (oper=='*'){
 								printf("Digite outro numero!\n");
 							 	scanf("%i",&num2);
 						     	printf("\n %i * %i = %i\n", num1, num2,num1*num2);
